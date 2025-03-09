@@ -1,3 +1,0 @@
-/home/prueba/inicio/call_b/build./CMakeFiles/Ejemplo.dir
-/home/prueba/inicio/call_b/build./CMakeFiles/edit_cache.dir
-/home/prueba/inicio/call_b/build./CMakeFiles/rebuild_cache.dir
